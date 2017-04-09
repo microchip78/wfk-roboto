@@ -10,8 +10,9 @@ npm install wfk-roboto
 Include roboto.css in your index.html or .angular-cli.json
 
 
-
 ```
 "../node_modules/wfk-roboto/roboto.css"
 
 ```
+
+If you want to use font family constants in your scss stylesheet
