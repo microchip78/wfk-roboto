@@ -8,3 +8,10 @@ npm install wfk-roboto
 ```
 
 Include roboto.css in your index.html or .angular-cli.json
+
+
+
+```
+"../node_modules/wfk-roboto/roboto.css"
+
+```
